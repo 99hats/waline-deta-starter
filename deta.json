@@ -1,12 +1,5 @@
 {
 	"name": "Waline Example",
 	"description": "An Waline starter example for deploy to deta",
-	"env": [
-		{
-			"key": "DETA_PROJECT_KEY",
-			"description": "Your DETA PROJECT ID",
-			"required": false 
-		}
 
-	]
 }
