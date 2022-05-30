@@ -2,7 +2,8 @@ const express = require('express');
 const Waline = require('@waline/vercel');
 const app = express();
 const callback = Waline({ 
-  env: 'deta'
+  env: 'deta',
+  lang: 'en'
 });
 
 app.all(/.*/, callback);
