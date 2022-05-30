@@ -6,7 +6,7 @@ This directory is a brief example of a [Waline](https://waline.js.org/) app that
 
 Deploy your own Waline project with Deta.
 
-[![Deploy with Deta](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/walinejs/deta-starter)
+[![Deploy with Deta](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/99hats/waline-deta-starter)
 
 ### How We Created This Example
 
